@@ -8,7 +8,7 @@ export default {
   title: 'Match',
   type: 'document',
   icon: MdTv,
-  description: 'An instance of a Quiz',
+  description: 'An instance of a Quiz!',
   fieldsets: [
     {
       name: 'match-state',
