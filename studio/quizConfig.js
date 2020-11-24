@@ -1,7 +1,7 @@
 export default {
   localWebHost: 'http://localhost:3000', // default Vue port
   localApiHost: 'http://localhost:3000', // default Now API port
-  remoteWebHost: 'https://quiz-liard.vercel.app/',
+  remoteWebHost: 'https://quiz-liard.vercel.app',
   match: {
     correctAnswerScore: 100,
     firstAnswerScore: 50
